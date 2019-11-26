@@ -1,2 +1,4 @@
- CIS-Final-Project
-Khoa Nguyen
+CIS-Final-Project
+Kihoa Nguyen
+
+Python 3.7
